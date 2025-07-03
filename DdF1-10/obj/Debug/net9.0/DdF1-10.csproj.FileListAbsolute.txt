@@ -1,0 +1,15 @@
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\bin\Debug\net9.0\DdF1-10.exe
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\bin\Debug\net9.0\DdF1-10.deps.json
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\bin\Debug\net9.0\DdF1-10.runtimeconfig.json
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\bin\Debug\net9.0\DdF1-10.dll
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\bin\Debug\net9.0\DdF1-10.pdb
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.AssemblyInfoInputs.cache
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.AssemblyInfo.cs
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.csproj.CoreCompileInputs.cache
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.dll
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\refint\DdF1-10.dll
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.pdb
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.genruntimeconfig.cache
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\ref\DdF1-10.dll
+C:\Users\ceden\OneDrive\Desktop\VS\Code\DdF1-10\obj\Debug\net9.0\DdF1-10.sourcelink.json
